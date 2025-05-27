@@ -94,7 +94,7 @@ Hello! I'm **Divyanshu Pal**  with a love for App development and problem solvin
 
 ---
 <!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abhaysachan360&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/abhaysachan360) -->
-[![Leetcode](https://leetcard.jacoblin.cool/abhaysachan01?ext=contest)](https://leetcode.com/divyanshuwork03)
+[![Leetcode](https://leetcard.jacoblin.cool/divyanshuwork03?ext=contest)](https://leetcode.com/divyanshuwork03)
 
 
 ### 🤝 Let's Collaborate!
