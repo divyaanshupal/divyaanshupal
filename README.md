@@ -64,17 +64,17 @@ Hello! I'm **Divyanshu Pal**  with a love for App development and problem solvin
     <td>
       <ul>
         <li>
-            <a href="https://leetcode.com/u/Abhaysachan01/" target="_blank">
+            <a href="https://leetcode.com/u/divyanshuwork03/" target="_blank">
                 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge">
             </a> 
         </li>
         <li>
-            <a href="https://codeforces.com/profile/abhaysachan360" target="_blank">
+            <a href="https://codeforces.com/profile/divyaaanshu" target="_blank">
                 <img src="https://img.shields.io/badge/-CodeForces-F5B116?style=flat&logo=leetcode&logoColor=black" alt="Codeforces Badge">
             </a> 
         </li>
         <li>
-            <a href="https://www.codechef.com/users/abhay_sachan" target="_blank">
+            <a href="https://www.codechef.com/users/bright_shadow1" target="_blank">
                 <img src="https://img.shields.io/badge/-Codechef-F1A116?style=flat&logo=leetcode&logoColor=black" alt="CodeChef Badge">
             </a> 
         </li>
