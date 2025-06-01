@@ -78,7 +78,7 @@ Hello! I'm **Divyanshu Pal**  with a love for App development and problem solvin
                 <img src="https://img.shields.io/badge/-Codechef-F1A116?style=flat&logo=leetcode&logoColor=black" alt="CodeChef Badge">
             </a> 
         </li>
-        <li>Various online coding platforms (800+ questions)</li>
+        <li>Various online coding platforms (300+ questions)</li>
       </ul>
     </td>
   </tr>
