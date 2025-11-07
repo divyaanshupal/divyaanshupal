@@ -2,11 +2,11 @@
 
 ### About Me
 
-Hi, I’m Divyanshu Pal, a 3rd-year Computer Science and Engineering student at IIIT Bhagalpur. I’m passionate about full-stack development, C++ programming, and problem-solving, always striving to create clean, efficient, and impactful software solutions.
+Hi, I’m **Divyanshu Pal**, a 3rd-year Computer Science and Engineering student at IIIT Bhagalpur. I’m passionate about full-stack development, C++ programming, and problem-solving, always striving to create clean, efficient, and impactful software solutions.
 
 I’m a 3-star coder on CodeChef (1602) and hold a 1668 rating on LeetCode, reflecting my strong interest in algorithms and data structures. My dedication to innovation has led me to win two hackathons — as First Runner-up at IIT ISM Dhanbad and Winner at BIT Mesra.
 
-Beyond technology, I’m the founder of Unnati Welfare Society, an NGO working to promote digital education in government schools, positively impacting hundreds of underprivileged students. I also enjoy hosting and organizing technical and cultural events, which have strengthened my leadership and communication skills.
+Beyond technology, I’m the Initiator of Unnati Society, an NGO working to promote digital education in government schools, positively impacting hundreds of underprivileged students. I also enjoy hosting and organizing technical and cultural events, which have strengthened my leadership and communication skills.
 
 I aspire to merge my technical expertise with my social vision, building scalable products that make a real-world difference.
 
